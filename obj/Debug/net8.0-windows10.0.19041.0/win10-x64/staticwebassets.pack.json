@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Islington\\Dot Net\\References\\BrewBiteCafe\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\BrewBiteCafe.styles.css",
+      "PackagePath": "staticwebassets\\BrewBiteCafe.styles.css"
+    },
+    {
+      "Id": "D:\\Islington\\Dot Net\\References\\BrewBiteCafe\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Islington\\Dot Net\\References\\BrewBiteCafe\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Islington\\Dot Net\\References\\BrewBiteCafe\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Islington\\Dot Net\\References\\BrewBiteCafe\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Islington\\Dot Net\\References\\BrewBiteCafe\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.BrewBiteCafe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.BrewBiteCafe.props",
+      "PackagePath": "build\\BrewBiteCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.BrewBiteCafe.props",
+      "PackagePath": "buildMultiTargeting\\BrewBiteCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.BrewBiteCafe.props",
+      "PackagePath": "buildTransitive\\BrewBiteCafe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
